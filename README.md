@@ -17,6 +17,9 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 ## Hobbies
 - Dancing ... coding .. learnig ... draw and so on
 
+## Languages
+- Spanish - English - Portuguese - Chinese
+
 
 ###
 ©derechos reservados | desarrollado por cassDev
