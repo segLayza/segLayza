@@ -9,7 +9,7 @@
 
 #### So, if you need some help with Tech please don't hesitate to contact me! and I'll be really happy to support you..!! -->
 
-## 👋Hello! I’m 𝗖𝗮𝘀𝘀𝗲𝗹𝗶 — an 𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗻𝗶𝗰
+## 👋Hello! I’m 𝗖𝗮𝘀𝘀𝗲𝗹𝗶 — an 𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗻𝗶𝗰 and Develper Guy.
 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝘄𝗶𝘁𝗵 𝟵+ 𝘆𝗲𝗮𝗿𝘀 𝗺𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝗮𝗿𝘁 𝗼𝗳 𝗧𝗲𝗹𝗲𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀, 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗖𝗲𝗻𝘁𝗲𝗿 𝗩𝗼𝗶𝗰𝗲 𝗖𝗼𝗿𝗲, 𝗮𝗻𝗱 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴. I’m not just another developer; I’m a relentless 𝗽𝗿𝗼𝗯𝗹𝗲𝗺 𝘀𝗼𝗹𝘃𝗲𝗿, a self-taught innovator, and a leader who thrives where others hesitate: under pressure, in fast-paced environments, with deadlines that demand 𝗲𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲.
 
 𝗜 𝗱𝗼𝗻’𝘁 𝗷𝘂𝘀𝘁 𝗺𝗲𝗲𝘁 𝗲𝘅𝗽𝗲𝗰𝘁𝗮𝘁𝗶𝗼𝗻𝘀 — I shatter them. Whether it’s designing bulletproof telecom infrastructures, architecting scalable microservices, or crushing complex bugs before they surface, I bring 𝗰𝗹𝗮𝗿𝗶𝘁𝘆 to chaos and transform impossible challenges into elegant 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀.
