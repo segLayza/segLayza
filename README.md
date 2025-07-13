@@ -44,12 +44,18 @@ Go, JavaScript, NodeJS, React
 ✅𝗠𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀: Agile (Scrum, Kanban)
 
 
-Reach out — and 𝗹𝗲𝘁’𝘀 𝗯𝘂𝗶𝗹𝗱 𝘁𝗵𝗲 𝗳𝘂𝘁𝘂𝗿𝗲 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿.
+
+```
+    Reach out — and 𝗹𝗲𝘁’𝘀 𝗯𝘂𝗶𝗹𝗱 𝘁𝗵𝗲 𝗳𝘂𝘁𝘂𝗿𝗲 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿.
+```
 
 — 𝗖𝗮𝘀𝘀𝗲
 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗟𝗲𝗮𝗱 | 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁 | 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗼𝗿 | 𝗠𝗲𝗻𝘁𝗼𝗿
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/casseli-layza/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@casselilayza1179) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)]()
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/casseli-layza/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@casse_code)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@kasely_l)
 
 
 ### Skills
