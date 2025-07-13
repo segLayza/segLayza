@@ -9,24 +9,38 @@
 
 #### So, if you need some help with Tech please don't hesitate to contact me! and I'll be really happy to support you..!! -->
 
-## 👋Hello! I’m 𝗖𝗮𝘀𝘀𝗲𝗹𝗶 — an 𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗻𝗶𝗰 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝘄𝗶𝘁𝗵 𝟵+ 𝘆𝗲𝗮𝗿𝘀 𝗺𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝗮𝗿𝘁 𝗼𝗳 𝗧𝗲𝗹𝗲𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀, 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗖𝗲𝗻𝘁𝗲𝗿 𝗩𝗼𝗶𝗰𝗲 𝗖𝗼𝗿𝗲, 𝗮𝗻𝗱 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴. I’m not just another developer; I’m a relentless 𝗽𝗿𝗼𝗯𝗹𝗲𝗺 𝘀𝗼𝗹𝘃𝗲𝗿, a self-taught innovator, and a leader who thrives where others hesitate: under pressure, in fast-paced environments, with deadlines that demand 𝗲𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲.
+## 👋Hello! I’m 𝗖𝗮𝘀𝘀𝗲𝗹𝗶 — an 𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗻𝗶𝗰
+𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝘄𝗶𝘁𝗵 𝟵+ 𝘆𝗲𝗮𝗿𝘀 𝗺𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝗮𝗿𝘁 𝗼𝗳 𝗧𝗲𝗹𝗲𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀, 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗖𝗲𝗻𝘁𝗲𝗿 𝗩𝗼𝗶𝗰𝗲 𝗖𝗼𝗿𝗲, 𝗮𝗻𝗱 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴. I’m not just another developer; I’m a relentless 𝗽𝗿𝗼𝗯𝗹𝗲𝗺 𝘀𝗼𝗹𝘃𝗲𝗿, a self-taught innovator, and a leader who thrives where others hesitate: under pressure, in fast-paced environments, with deadlines that demand 𝗲𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲.
 
 𝗜 𝗱𝗼𝗻’𝘁 𝗷𝘂𝘀𝘁 𝗺𝗲𝗲𝘁 𝗲𝘅𝗽𝗲𝗰𝘁𝗮𝘁𝗶𝗼𝗻𝘀 — I shatter them. Whether it’s designing bulletproof telecom infrastructures, architecting scalable microservices, or crushing complex bugs before they surface, I bring 𝗰𝗹𝗮𝗿𝗶𝘁𝘆 to chaos and transform impossible challenges into elegant 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀.
 
 🎯W𝗵𝘆 𝗜 𝘀𝘁𝗮𝗻𝗱 𝗼𝘂𝘁:
+
 ✅𝗠𝗮𝘀𝘁𝗲𝗿 𝗼𝗳 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆: I see patterns where others see noise. Reverse engineering and abstract thinking aren’t just skills — they’re my superpowers. I decode tangled systems and rewrite the rules to simplify the impossible.
+
 ✅𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗼𝗿 𝗼𝗳 𝗩𝗶𝘀𝗶𝗼𝗻: Technology is only as powerful as the people who understand it. I translate the technical labyrinth into crystal-clear insights that inspire teams and clients alike.
+
 ✅𝗟𝗲𝗮𝗱𝗲𝗿 & 𝗠𝗲𝗻𝘁𝗼𝗿: I’m not just building software; I’m building teams. I guide, inspire, and elevate others to unleash their full potential and deliver beyond expectations.
+
 ✅𝗣𝗮𝘀𝘀𝗶𝗼𝗻 𝗳𝗼𝗿 𝗜𝗺𝗽𝗮𝗰𝘁: My mission is simple — drive customer success and innovation that changes the game. If it’s tough, I want it.
 
 🛠️𝗧𝗲𝗰𝗵 𝗔𝗿𝘀𝗲𝗻𝗮𝗹:
-✅𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: Java (7-21), Python, Go, JavaScript, NodeJS, React
+
+✅𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: Java (7-21), Python
+Go, JavaScript, NodeJS, React
+
 ✅𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗔𝗣𝗜𝘀: Spring Boot, Microservices, Spring Cloud, REST/SOAP, OAuth, JWT, Spring Security, Hibernate, JPA
+
 ✅𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗖𝗹𝗼𝘂𝗱: Docker, Kubernetes, AWS, Azure, GCP, Terraform, Jenkins, GitHub Actions, CI/CD pipelines
+
 ✅𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: MySQL, Oracle, MongoDB, SQL
+
 ✅𝗧𝗲𝗹𝗲𝗰𝗼𝗺 & 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗖𝗲𝗻𝘁𝗲𝗿: Asterisk, FreeSWITCH, Genesys Composer, Avaya Aura, Nortel CS1000, SIP, RTP, WebRTC, SBC
+
 ✅𝗧𝗼𝗼𝗹𝘀 & 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁𝘀: IntelliJ IDEA, VS Code, Linux (Ubuntu, Debian, CentOS, RedHat), Bash.
+
 ✅𝗧𝗲𝘀𝘁𝗶𝗻𝗴 & 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻: JEST, Postman, Swagger
+
 ✅𝗠𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀: Agile (Scrum, Kanban)
 
 
